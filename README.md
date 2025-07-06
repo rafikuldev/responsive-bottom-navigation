@@ -1,5 +1,5 @@
 # Responsive Bottom Navigation Bar
-## [Demo](https://rafikulislamrafi.github.io/responsive-bottom-navigation/)
+## [Demo](https://rafikuldev.github.io/responsive-bottom-navigation/)
 ### Responsive Bottom Navigation Bar
 
 - Lower navigation bar using HTML, CSS and JavaScript.
